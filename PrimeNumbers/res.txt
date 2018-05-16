@@ -1,0 +1,6 @@
+Prime Factors of number 13195 are:
+5
+7
+13
+29
+It took 0.00 seconds to find those
